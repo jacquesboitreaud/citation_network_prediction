@@ -20,7 +20,7 @@ Features :
 Problem questions 
 
 1. Which technic is the most performant for this problem ?
--> Mathieu : Word2Vec and then SVM ?
+-> Mathieu : SVM ?
 
 2. What are the most relevant features ?
 -> Mathieu : I think that we may preprocess the dataset to find another features. In particular, since we are studying a graph structure, we may compute the common neighbors between two nodes. There are some interesting details in [1] concerning the features.
@@ -33,6 +33,6 @@ Problem questions
 
 Tasks
 
-1.
+1. Preprocess the datas and create the features
 2.
 3.
