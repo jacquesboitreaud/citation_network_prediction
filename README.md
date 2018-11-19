@@ -29,7 +29,7 @@ Problem questions
 -> Mathieu : I think that we may take a look at the Word2Vec technic to preprocess the "text" datas
 
 4. How can we break the symmetry in the problem ?
--> Mathieu : If a paper points toward another paper, the opposite may not be true. Thus, we have to find features that break the symmetries between two papers...
+-> Mathieu : Tha date... If two papers have the same year ?
 
 Tasks
 
