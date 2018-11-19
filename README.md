@@ -3,7 +3,9 @@ Edges have been deleted at random from a citation network. Your mission is to ac
 
 Bibliography 
 
-https://www.semanticscholar.org/paper/Link-prediction-in-citation-networks-Shibata-Kajikawa/090883879b1343630f647f95c9c8fe2eb216e889
+[1] https://www.semanticscholar.org/paper/Link-prediction-in-citation-networks-Shibata-Kajikawa/090883879b1343630f647f95c9c8fe2eb216e889
+
+[2] https://en.wikipedia.org/wiki/Jaccard_index
 
 Problem description
 
