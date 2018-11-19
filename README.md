@@ -33,8 +33,14 @@ Problem questions
 4. How can we break the symmetry in the problem ?
 -> Mathieu : Tha date... If two papers have the same year ?
 
+Research
+
+1. How can we define the topological features ? (Mathieu : I am focusing on this point)
+2. How can we preprocess the abstract to obtain an easy-measurable vector/ a relevant metric to evaluate it ?
+3. Find on literature the most efficient ML algorithm
+
 Tasks
 
-1. Preprocess the datas and create the features
+1. Preprocess the datas and create the features (a nice array)
 2.
 3.
