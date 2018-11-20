@@ -59,8 +59,8 @@ def load_data():
 			line[1]=int(line[1])	
 
 		data.append(line)
-		data=data[1:]
+	data=data[1:]
 
-		return data
+	return data
 
 
